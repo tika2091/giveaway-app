@@ -99,6 +99,7 @@ background-color:#828282;
     display: flex;
     flex-grow: 1;
     height:auto;
+    min-height:800px;
     padding-bottom:70px;
      background-image: url("../assets/giveawaybackground.png");
      display:cover repeat-y;
@@ -296,6 +297,15 @@ padding:10px;
         padding-left:30px;
      /*   background-color:red;*/
        }
+
+       .page form button{
+        background-color:rgb(149, 84, 134);
+        }
+
+        .page form button:hover{
+          background-color:#fff;
+          color:#000; 
+          }
 
 /*
 .item>h1:first-of-type {
