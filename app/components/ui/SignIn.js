@@ -36,7 +36,7 @@ import firebase from '../../config/firebase.js';
           return (
                   <form >
                     <div>
-                      <h1>Log in to your account</h1>
+                      <h1>Log in to create an account</h1>
                     </div>
                     <div>
                       <label>Email</label><input type="text" ref="email" />
