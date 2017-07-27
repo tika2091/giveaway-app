@@ -12,6 +12,6 @@ export default class App extends Component {
       databaseURL: "https://giveaway-a0b3b.firebaseio.com",
       projectId: "giveaway-a0b3b",
       storageBucket: "giveaway-a0b3b.appspot.com",
-      messagingSenderId: "94459880442")};
+      messagingSenderId: "94459880442"});
   }
 }
